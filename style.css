@@ -99,22 +99,113 @@
 }*/
 
 /* Create four equal columns that floats next to each other */
+.head{
+  font-family: 'Arial';
+  font-size: 1vw;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+
+
+
 .header {
     font-family: 'BiblonReg';
     text-align: left;
-    font-size: 20px;
+    font-size: 4vw;
     border-bottom: none;
     margin-left: 5%;
+
+}
+
+.trigger2 {
+      line-height: 1.2;
+}
+
+.toggle2 {
+  font-family: 'Arial';
+}
+
+.trigger3 {
+      line-height: 1.2;
+}
+
+.toggle3 {
+  font-family: 'Arial';
+}
+
+.trigger4 {
+      line-height: 1.2;
+}
+
+.toggle4 {
+  font-family: 'Arial';
+}
+
+.trigger5 {
+      line-height: 1.2;
+}
+
+.toggle5 {
+  font-family: 'Arial';
+}
+
+.trigger6 {
+      line-height: 1.2;
+}
+
+.toggle6 {
+  font-family: 'Arial';
+}
+
+.trigger7 {
+      line-height: 1.2;
+}
+
+.toggle7 {
+  font-family: 'Arial';
+}
+
+.trigger8 {
+      line-height: 1.2;
+}
+
+.toggle8 {
+  font-family: 'Arial';
+}
+
+.trigger9 {
+      line-height: 1.2;
+}
+
+.toggle9 {
+  font-family: 'Arial';
+}
+
+.trigger10 {
+      line-height: 1.2;
+}
+
+.toggle10 {
+  font-family: 'Arial';
+}
+
+.trigger11 {
+      line-height: 1.2;
+}
+
+.toggle11 {
+  font-family: 'Arial';
 }
 
 
 .navbar{
-	    font-family: 'BiblonReg';
+      font-family: 'BiblonReg';
 }
 
 
       .fixed-nav {
-      	font-family: 'BiblonReg';
+        font-family: 'BiblonReg';
         position: fixed;
         top: 0;
         left: 0;
@@ -159,8 +250,8 @@
 
 p {
     border-bottom: 1px solid black;
-	border-width: 10%;	
-	}
+  border-width: 10%;  
+  }
 
 
 
