@@ -1,6 +1,31 @@
-* {
+/** {
     margin:0;
     padding: 0;
+}*/
+
+@font-face {
+  font-family: BiblonBold;
+  src: url(BiblonITC-Bold.otf);
+}
+
+@font-face {
+  font-family: BiblonIt;
+  src: url(BiblonITC-BoldItalic.otf);
+}
+
+@font-face{
+     font-family: BiblonReg;
+    src: url(BiblonITC.otf);
+}
+
+@font-face{
+     font-family: SerapionReg;
+    src: url(Serapion.otf);
+}
+
+@font-face{
+     font-family: SerapionBold;
+    src: url(Serapion-Bold.otf);
 }
 
 /*{
@@ -18,41 +43,7 @@
     margin: 0 auto;
 }*/
 
-{
-    font-family: "BiblonITC-Bold";
-    src: url(BiblonITC-Bold.otf);
-    width: 80%;
-    margin: 0 auto;
-}
 
-{
-    font-family: "BiblonITC-BoldItalic";
-    src: url(BiblonITC-BoldItalic.otf);
-    width: 80%;
-    margin: 0 auto;
-}
-
-{
-    font-family: "BiblonITC-Italic";
-    src: url(BiblonITC-Italic.otf);
-    width: 80%;
-    margin: 0 auto;
-}
-
-{
-    font-family: "BiblonITC";
-    src: url(BiblonITC.otf);
-    width: 80%;
-    margin: 0 auto;
-}
-
-
-{
-    font-family: "HelveCon";
-    src: url(BiblonITC.otf);
-    width: 80%;
-    margin: 0 auto;
-}
 
 /*{
     font-family: "Serapion-Bold";
@@ -109,7 +100,7 @@
 
 /* Create four equal columns that floats next to each other */
 .header {
-    font-family: "BiblonITC";
+    font-family: 'BiblonReg';
     text-align: left;
     font-size: 20px;
     border-bottom: none;
@@ -139,7 +130,7 @@
         text-transform: uppercase;
         padding: 17px 10px;
         color: #333;
-        font-family: arial;
+        font-family: 'BiblonReg';
       }
  
       .fixed-nav a:hover {
