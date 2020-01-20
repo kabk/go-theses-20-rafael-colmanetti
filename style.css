@@ -16,7 +16,7 @@
     src: url(Serapion.ttf);
     width: 80%;
     margin: 0 auto;
-}
+}*/
 
 {
     font-family: "BiblonITC-Bold";
@@ -54,7 +54,7 @@
     margin: 0 auto;
 }
 
-{
+/*{
     font-family: "Serapion-Bold";
     src: url(Serapion-Bold.otf);
     width: 80%;
@@ -73,12 +73,12 @@
     src: url(Serapion-Italic.otf);
     width: 80%;
     margin: 0 auto;
-}
+}*/
 
 
 
 
-{
+/*{
     font-family: "SerapionBold";
     src: url(SerapionBold.ttf);
     width: 80%;
@@ -109,29 +109,12 @@
 
 /* Create four equal columns that floats next to each other */
 .header {
-    font-family: "HelveCon";
-    text-align: center;
+    font-family: "BiblonITC";
+    text-align: left;
     font-size: 20px;
     border-bottom: none;
+    margin-left: 5%;
 }
-
-{
-    font-family: "Serapion";
-    src: url(Serapion.otf);
-    width: 80%;
-    margin: 0 auto;
-}
-
-
-{
-    font-family: "Serapion";
-    src: url(Serapion.ttf);
-    width: 80%;
-    margin: 0 auto;
-}
-
-
-
 
       .fixed-nav {
         position: fixed;
