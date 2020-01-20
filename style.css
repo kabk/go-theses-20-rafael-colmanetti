@@ -3,8 +3,20 @@
     padding: 0;
 }
 
-/* Create four equal columns that floats next to each other */
-.header 
+/*{
+    font-family: "Serapion";
+    src: url(Serapion.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+{
+    font-family: "Serapion";
+    src: url(Serapion.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
 
 {
     font-family: "BiblonITC-Bold";
@@ -64,20 +76,7 @@
 }
 
 
-{
-    font-family: "Serapion";
-    src: url(Serapion.otf);
-    width: 80%;
-    margin: 0 auto;
-}
 
-
-{
-    font-family: "Serapion";
-    src: url(Serapion.ttf);
-    width: 80%;
-    margin: 0 auto;
-}
 
 {
     font-family: "SerapionBold";
@@ -106,12 +105,30 @@
     src: url(SerapionItalic.ttf);
     width: 80%;
     margin: 0 auto;
+}*/
+
+/* Create four equal columns that floats next to each other */
+.header {
+    font-family: "HelveCon";
+    text-align: center;
+    font-size: 20px;
+    border-bottom: none;
+}
+
+{
+    font-family: "Serapion";
+    src: url(Serapion.otf);
+    width: 80%;
+    margin: 0 auto;
 }
 
 
-
-
-
+{
+    font-family: "Serapion";
+    src: url(Serapion.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
 
 
 
@@ -164,57 +181,9 @@ p {
 	}
 
 
-.um {
-/*    font-size: 23px;
-    line-height: 17px;*/
 
-}
 
-.dois {
-/*    font-size: 25px;
-    letter-spacing: .002em;
-    line-height: 18px;*/
 
-}
-
-.tres {
-/*    font-size: 30px;*/
-}
-
-.quatro {
-    font-size: 35px;
-}
-
-.cinco {
-    font-size: 40px;
-}
-
-.seis {
-    font-size: 45px;
-}
-
-.sete {
-    font-size: 50px;
-}
-
-.oito {
-    font-size: 55px;
-}
-
-.nove {
-    font-size: 60px;
-}
-
-.dez {
-    font-size: 65px;
-}
-
-.onze {
-    font-family: "HelveticaNeue-CondensedLight";
-    text-align: center;
-    font-size: 20px;
-    border-bottom: none;
-}
 
 
 
