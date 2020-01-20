@@ -1,0 +1,239 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+/* Create four equal columns that floats next to each other */
+.header 
+
+{
+    font-family: "BiblonITC-Bold";
+    src: url(BiblonITC-Bold.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "BiblonITC-BoldItalic";
+    src: url(BiblonITC-BoldItalic.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "BiblonITC-Italic";
+    src: url(BiblonITC-Italic.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "BiblonITC";
+    src: url(BiblonITC.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+{
+    font-family: "HelveCon";
+    src: url(BiblonITC.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "Serapion-Bold";
+    src: url(Serapion-Bold.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "Serapion-BoldItalic";
+    src: url(Serapion-BoldItalic.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "Serapion-Italic";
+    src: url(Serapion-Italic.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+{
+    font-family: "Serapion";
+    src: url(Serapion.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+{
+    font-family: "Serapion";
+    src: url(Serapion.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "SerapionBold";
+    src: url(SerapionBold.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "SerapionBold";
+    src: url(SerapionBold.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "SerapionBoldItalic";
+    src: url(SerapionBoldItalic.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+{
+    font-family: "SerapionItalic";
+    src: url(SerapionItalic.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+      .fixed-nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: #ddd;
+ 
+        white-space: nowrap;
+        height: 50px;
+        box-sizing: border-box;
+        padding: 10px;
+        box-shadow: 0px 3px 6px rgba(0,0,0,0.16),0px 3px 6px rgba(0,0,0,0.23);      
+      }
+ 
+      .fixed-nav ul, .fixed-nav li {
+        display:inline;
+      }
+ 
+      .fixed-nav a {
+        text-decoration: none;
+        text-transform: uppercase;
+        padding: 17px 10px;
+        color: #333;
+        font-family: arial;
+      }
+ 
+      .fixed-nav a:hover {
+        background-color: #000;
+        color: #eee;
+      }
+ 
+      .fixed-nav ul {
+        padding:0;
+      }
+      .fixed-nav img {
+        vertical-align: middle;
+      }
+      main {margin-top:55px;}
+
+
+
+
+p {
+    border-bottom: 1px solid black;
+	border-width: 10%;	
+	}
+
+
+.um {
+/*    font-size: 23px;
+    line-height: 17px;*/
+
+}
+
+.dois {
+/*    font-size: 25px;
+    letter-spacing: .002em;
+    line-height: 18px;*/
+
+}
+
+.tres {
+/*    font-size: 30px;*/
+}
+
+.quatro {
+    font-size: 35px;
+}
+
+.cinco {
+    font-size: 40px;
+}
+
+.seis {
+    font-size: 45px;
+}
+
+.sete {
+    font-size: 50px;
+}
+
+.oito {
+    font-size: 55px;
+}
+
+.nove {
+    font-size: 60px;
+}
+
+.dez {
+    font-size: 65px;
+}
+
+.onze {
+    font-family: "HelveticaNeue-CondensedLight";
+    text-align: center;
+    font-size: 20px;
+    border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
