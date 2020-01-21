@@ -3,6 +3,7 @@
 <head>
 
 <link rel="stylesheet" href="style.css"/>
+<link rel="stylesheet" href="https://use.fontawesome.com/release/v5.4.1/css/all.css">
 <!-- <script  src="https://code.jquery.com/jquery-3.4.1.min.js"
   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
   crossorigin="anonymous"></script> -->
@@ -16,8 +17,9 @@
 </head>
 <body>
 
+  
 
-<p style="display: none"></p>
+<!-- <p style="display: none"></p> -->
 <!-- codigo a ref -->
 <!-- Header -->
 <!-- <nav class="navbar">
@@ -317,6 +319,11 @@ The population can no longer be absent of all injustice and violence coming from
 
 </div>
 
+<!-- BACK TO TOP -->
+
+<a class="gotopbtn" href="#"> <i class="fas fa-arrow-up"></i> </a> 
+
+
 <!-- Photo Grid -->
 <script>
 
@@ -395,4 +402,24 @@ $( ".trigger11" ).click(function() {
 <!-- scripts down here -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script> 
 <script src="script.js"></script>
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}</script>
 </html>
