@@ -130,16 +130,24 @@ html {
 /*    width:100%;*/
 }
 
-.mapa{
-    margin-top: 1vw;
-    margin-bottom: 1vw;
-    width: 100%;
-}
-
 .images img{
     width: 98%;
     padding: 2.5px;
 }
+
+.mapa{
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+
+}
+
+.mapa img{
+    width: 98%;
+    padding: 2.5px;
+
+}
+
+
 
 /* Create four equal columns that floats next to each other */
 .head{
