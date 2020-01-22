@@ -131,10 +131,9 @@ html {
 }
 
 .mapa{
-    margin-top: 10vw;
-
-/*    float: right;*/
-    width:100%;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    width:98%;
 }
 
 .images img{
