@@ -126,6 +126,8 @@ html {
 .images{
     margin-top: 5vw;
     margin-bottom: 40vw;
+    width: 98%;
+    padding: 2.5px;
 /*    float: right;*/
 /*    width:100%;*/
 }
@@ -133,14 +135,16 @@ html {
 .image1{
     margin-top: 1vw;
     margin-bottom: 1vw;
+    width: 98%;
+    padding: 2.5px;
 /*    float: right;*/
 /*    width:100%;*/
 }
 
-.images img{
+/*.images img{
     width: 98%;
     padding: 2.5px;
-}
+}*/
 
 /* Create four equal columns that floats next to each other */
 .head{
