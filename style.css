@@ -138,14 +138,16 @@ html {
 .mapa{
     margin-top: 1vw;
     margin-bottom: 1vw;
-
-}
-
-.mapa img{
     width: 98%;
     padding: 2.5px;
 
 }
+
+/*.mapa img{
+    width: 98%;
+    padding: 2.5px;
+
+}*/
 
 
 
