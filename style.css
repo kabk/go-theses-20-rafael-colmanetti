@@ -123,10 +123,7 @@ html {
     margin: 0 auto;
 }*/
 
-.images img{
-    width: 98%;
-    padding: 2.5px;
-}
+
 
 .images{
     margin-top: 20vw;
@@ -134,8 +131,6 @@ html {
 /*    float: right;*/
 /*    width:100%;*/
 }
-
-
 
 .mapa{
     margin-top: 1vw;
@@ -152,7 +147,10 @@ html {
     padding: 2.5px;
 }
 
-
+.images img{
+    width: 98%;
+    padding: 2.5px;
+}
 
 
 
