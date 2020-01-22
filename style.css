@@ -53,16 +53,82 @@ html {
   bottom: 5vw;
   right: 5vw;
 }
+/*{
+    font-family: "Serapion";
+    src: url(Serapion.otf);
+    width: 80%;
+    margin: 0 auto;
+}
 
+
+{
+    font-family: "Serapion";
+    src: url(Serapion.ttf);
+    width: 80%;
+    margin: 0 auto;
+}*/
+
+
+
+/*{
+    font-family: "Serapion-Bold";
+    src: url(Serapion-Bold.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "Serapion-BoldItalic";
+    src: url(Serapion-BoldItalic.otf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "Serapion-Italic";
+    src: url(Serapion-Italic.otf);
+    width: 80%;
+    margin: 0 auto;
+}*/
+
+
+
+
+/*{
+    font-family: "SerapionBold";
+    src: url(SerapionBold.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "SerapionBold";
+    src: url(SerapionBold.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+{
+    font-family: "SerapionBoldItalic";
+    src: url(SerapionBoldItalic.ttf);
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+{
+    font-family: "SerapionItalic";
+    src: url(SerapionItalic.ttf);
+    width: 80%;
+    margin: 0 auto;
+}*/
 
 .images{
-    margin-top: 5vw;
+    margin-top: 20vw;
     margin-bottom: 40vw;
 /*    float: right;*/
 /*    width:100%;*/
 }
-
-
 
 .images img{
     width: 98%;
@@ -76,6 +142,9 @@ html {
   text-align: center;
   background-color: lightgreen;
 }
+
+
+
 
 .header {
     font-family: 'BiblonReg';
